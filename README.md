@@ -1,4 +1,4 @@
-Recamán’s Sequence
+Recaman_s_Sequence
 
 A Python project exploring Recamán’s sequence through sequence generation, numerical analysis, and visualization.
 
@@ -8,7 +8,7 @@ Recamán’s sequence is an integer sequence defined by a recursive rule. This p
 
 Features
 
-* Generate terms of Recamán’s sequence.
+* Generate terms of Recaman_sequence.
 * Explore sequence properties, including repeated values.
 * Check differences between consecutive terms.
 * Analyze missing and present positive integers.
@@ -30,7 +30,7 @@ How to Run
 
 Run the Python script:
 
-python "Recamán's Sequence.py"
+python "Recaman_s_Sequence.py"
 
 The program generates an arc diagram and saves it as recaman.pdf.
 
@@ -38,7 +38,7 @@ Project Structure
 
 recamans-sequence/
 ├── README.md
-└── Recamán's Sequence.py
+└── Recaman_s_Sequence.py
 
 Future Improvements
 
